@@ -4,7 +4,7 @@ int main() {
 char firstName[30];
 
 // Ask the user to input some text
-printf("Enter your first name: \n");
+printf("Enter  first name: \n");
 
 // Get and save the text
 scanf("%s", firstName);
